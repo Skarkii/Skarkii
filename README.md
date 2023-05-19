@@ -1,16 +1,35 @@
-### Hi there 👋
+<h2>Hey! 👋</h2>
 
-<!--
-**Skarkii/Skarkii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Lucas Kuja-Halkola
+- <i>Currently:</i> Studying Master of Science in Engineering in Computer Science at Örebro Universitet
 
-Here are some ideas to get you started:
+<h2>💻 I'm Currently workng on</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Computer Graphics
+- Private Software Development Project for school
+
+__Check out the related repositories:__
+
+<div>
+  <p>
+    <a href="https://github.com/Skarkii/OpenGL">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Skarkii&repo=OpenGL" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
+
+<h2>👀 Stats</h2>
+
+<div>
+
+  <a href="https://github.com/Skarkii/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skarkii&layout=compact&theme=buefy&hide_border=true"/>
+  </a>
+</div>
+
+<h2> About Me!⚡:</h2>
+
+I'm a 2nd year Master Student living in Örebro. 
+ 
+- Contact me: [lucas@kuja-halkola.com](mailto:lucas@kuja-halkola.com)
+- Linkedin: https://www.linkedin.com/in/lucas-kuja-halkola/
