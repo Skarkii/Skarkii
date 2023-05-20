@@ -3,7 +3,7 @@
 I'm Lucas Kuja-Halkola
 - <i>Currently:</i> Studying Master of Science in Engineering in Computer Science at Örebro Universitet
 
-<h2>💻 I'm Currently working on</h2>
+<h2>💻 Currently working on</h2>
 
 - Computer Graphics
 - Private Software Development Project for school
@@ -27,7 +27,7 @@ __Check out the related repositories:__
   </a>
 </div>
 
-<h2> About Me!⚡</h2>
+<h2>⚡ About Me</h2>
 
 I'm a 2nd year Master Student living in Örebro. 
  
