@@ -27,7 +27,7 @@ __Check out the related repositories:__
   </a>
 </div>
 
-<h2> About Me!⚡:</h2>
+<h2> About Me!⚡</h2>
 
 I'm a 2nd year Master Student living in Örebro. 
  
