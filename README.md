@@ -8,6 +8,7 @@ I'm Lucas Kuja-Halkola
 - Computer Graphics
 - Private Software Development Project for school
 - Leetcode problems
+- Creating a portfolio webpage using github pages
 
 __Check out the related repositories:__
 
@@ -18,6 +19,9 @@ __Check out the related repositories:__
     </a>
     <a href="https://github.com/Skarkii/leetcode">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Skarkii&repo=Leetcode" alt="GitHub Stats" />
+    </a>
+      <a href="https://github.com/Skarkii/skarkii.github.io">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Skarkii&repo=skarkii.github.io" alt="GitHub Stats" />
     </a>
   </p>
 </div>
