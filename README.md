@@ -7,6 +7,7 @@ I'm Lucas Kuja-Halkola
 
 - Computer Graphics
 - Private Software Development Project for school
+- Leetcode problems
 
 __Check out the related repositories:__
 
@@ -14,6 +15,9 @@ __Check out the related repositories:__
   <p>
     <a href="https://github.com/Skarkii/OpenGL">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Skarkii&repo=OpenGL" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/Skarkii/leetcode">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Skarkii&repo=Leetcode" alt="GitHub Stats" />
     </a>
   </p>
 </div>
