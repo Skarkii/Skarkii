@@ -17,7 +17,7 @@ __Check out the related repositories:__
     <a href="https://github.com/Skarkii/OpenGL">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Skarkii&repo=OpenGL" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/Skarkii/leetcode">
+    <a href="https://github.com/Skarkii/Leetcode">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Skarkii&repo=Leetcode" alt="GitHub Stats" />
     </a>
       <a href="https://github.com/Skarkii/skarkii.github.io">
