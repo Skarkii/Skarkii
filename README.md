@@ -37,7 +37,7 @@ __Check out the related repositories:__
 
 <h2>⚡ About Me</h2>
 
-I'm a 2nd year Master Student living in Örebro. 
+I'm a 3rd year Master Student living in Örebro. 
  
 - Contact me: [lucas@kuja-halkola.com](mailto:lucas@kuja-halkola.com)
 - Linkedin: https://www.linkedin.com/in/lucas-kuja-halkola/
