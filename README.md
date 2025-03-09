@@ -7,5 +7,5 @@ I'm Lucas Kuja-Halkola
 
 I'm a 4th year Master Student living in Örebro. 
  
-- Contact me: [lucas@kuja-halkola.com](mailto:lucas@kuja-halkola.com)
+- Contact me: [lucas@kuja-halkola.com](mailto:lucas@kuja-halkola.com) | [dev@skarkii.com](mailto:dev@skarkii.com)
 - Linkedin: https://www.linkedin.com/in/lucas-kuja-halkola/
